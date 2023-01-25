@@ -11,11 +11,11 @@ class Employee extends Sunstar {
 
     void printInfo() {
 
-        String name = "avinash";
+        String name = "honaliyat";
 
         int age = 21;
 
-        float salary = 222.2F;
+        float salary = 222.2;
  
 
         System.out.println(name);
